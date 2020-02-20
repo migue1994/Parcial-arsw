@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MoneyLaundering",
+            "request": "launch",
+            "mainClass": "edu.eci.arsw.moneylaundering.MoneyLaundering",
+            "projectName": "2020-1-arsw-par1"
+        }
+    ]
+}
